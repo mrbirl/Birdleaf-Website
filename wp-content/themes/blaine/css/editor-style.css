@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic);
+
+body#tinymce.wp-editor {
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+body#tinymce.wp-editor a {
+	color: #ef5248;
+}
+
+body#tinymce.wp-editor blockquote {
+	font-style: italic;
+	border-right: 3px solid rgba(100, 100, 100, 0.2);
+	margin-right: 160px;
+}

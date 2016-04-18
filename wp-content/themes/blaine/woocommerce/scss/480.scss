@@ -1,0 +1,110 @@
+// Framework config
+// -----------------------------------------------------------------------------
+
+$container : 320px; // Container width in px
+$numcol    : 4;	    // Grid columns number
+$gutter    : 30px; 	// Grid gutter in px
+$baseline  : 24px; 	// Vertical baseline
+
+// -----------------------------------------------------------------------------
+// $WooCommerce pages
+// -----------------------------------------------------------------------------
+
+.woocommerce,
+.woocommerce-page {
+
+	.images,
+	.entry-summary {
+		width: 100%;
+	}
+
+	.images {
+		padding-right: 0;
+		margin-bottom: $baseline;
+	}
+
+	// Cart totals
+	
+	.thb-cart-totals {
+		.cart_totals,
+		.shipping_calculator {
+			@include flex_box_col(6);
+		}
+
+		.shipping_calculator {
+			padding-right: flex_col_gutter(12) * 2;
+		}
+	}
+
+	// Shop columns
+	// -------------------------------------------------------------------------
+	
+	@media only screen and (max-width: 480px) {
+
+		ul.products  li.product {
+			width: 100%;
+			margin-right: 0;
+
+			&.first {
+				clear: both;
+			}
+
+			&.last {
+				margin-right: 0;
+			}
+		}
+
+		&.thb-shop-3col {
+			ul.products  li.product {
+				width: 100%;
+			}
+		}
+
+		&.thb-shop-4col {
+			ul.products  li.product {
+				width: 100%;
+			}
+		}
+	}
+
+	.col2-set {
+
+		.col-1, .col-2 {
+			@include flex_box_col(4);
+		}
+
+		.col-1 {
+			padding-right: 0;
+			margin-bottom: $baseline*2;
+		}
+	}
+
+	// Cart totals
+	
+	.thb-cart-totals {
+		.cart_totals,
+		.shipping_calculator {
+			@include flex_box_col(4);
+		}
+
+		.shipping_calculator {
+			margin-bottom: $baseline*2;
+			padding-right: 0;
+		}
+	}
+
+	// -------------------------------------------------------------------------
+	// $Cart table
+	// -------------------------------------------------------------------------
+
+	.thb-actions {
+		float: right;
+		display: block;
+	}
+
+	.coupon {
+		width: 100%;
+		margin-bottom: $baseline;
+	}
+
+}

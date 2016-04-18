@@ -1,0 +1,105 @@
+/*
+| ------------------------------------------------------------------------------
+| $Font families
+| ------------------------------------------------------------------------------
+*/
+/*
+| ------------------------------------------------------------------------------
+| $Commons
+| ------------------------------------------------------------------------------
+*/
+.posts-teaser-loop-item { *zoom: 1; }
+.posts-teaser-loop-item:before, .posts-teaser-loop-item:after { content: " "; display: table; }
+.posts-teaser-loop-item:after { clear: both; }
+
+/* 
+| ------------------------------------------------------------------------------
+| $Highlight color
+| ------------------------------------------------------------------------------
+*/
+/* Content colors */
+/* Footer sidebar colors */
+/* Footer colors */
+/*** Shortcodes Ultimate - other elements ***/
+/*		Tooltip
+---------------------------------------------------------------*/
+.qtip.su-qtip { max-width: 480px !important; }
+
+.su-tooltip { display: inline-block; }
+
+.su-qtip-size-1 { font-size: 0.8em !important; }
+
+.su-qtip-size-2 { font-size: 0.9em !important; }
+
+.su-qtip-size-3 { font-size: 1em !important; }
+
+.su-qtip-size-4 { font-size: 1.1em !important; }
+
+.su-qtip-size-5 { font-size: 1.2em !important; }
+
+.su-qtip-size-6 { font-size: 1.3em !important; }
+
+.su-tooltip-content { display: none; }
+
+.su-tooltip-content > :last-child { margin-bottom: 0; }
+
+.qtip-content .su-tooltip-content img, .qtip-content .su-tooltip-content object, .qtip-content .su-tooltip-content iframe, .qtip-content .su-tooltip-content embed { max-width: 430px; }
+
+.qtip-content .su-tooltip-content .su-responsive-media-yes { width: 430px; }
+
+/*		Private
+---------------------------------------------------------------*/
+.su-private { margin: 0 0 1.5em 0; }
+
+/*		Members
+---------------------------------------------------------------*/
+.su-members { margin-bottom: 1.5em; padding: 1em; border-width: 1px 0; border-style: solid; text-align: center; }
+
+.su-members a { text-decoration: underline; color: inherit; }
+
+/*		Guests
+---------------------------------------------------------------*/
+.su-guests { margin-bottom: 1.5em; }
+
+/*		Posts
+---------------------------------------------------------------*/
+.su-posts-teaser-loop .su-post, .su-posts-default-loop .su-post { overflow: hidden; }
+
+.posts-teaser-loop-item { margin-bottom: 36px; }
+
+.su-posts-default-loop .su-post-thumbnail, .su-posts-teaser-loop .su-post-thumbnail { float: left; display: block; }
+
+.su-posts-default-loop .su-post-thumbnail { width: 100%; }
+
+.su-posts-default-loop .su-post-thumbnail img, .su-posts-teaser-loop .su-post-thumbnail img { width: 100%; max-width: 100%; }
+
+.su-posts-teaser-loop .su-post-thumbnail img { border-radius: 100%; }
+
+.su-posts-teaser-loop .su-post-thumbnail { margin-right: 15px; }
+
+.su-posts-default-loop .su-post-thumbnail, .su-posts-single-post .su-post-thumbnail { margin-bottom: 12px; }
+
+.su-posts-default-loop h2.su-post-title, .su-posts-teaser-loop h2.su-post-title { clear: none; margin-bottom: 6px; font-size: 16px; font-weight: bold; }
+.su-posts-default-loop h2.su-post-title a, .su-posts-teaser-loop h2.su-post-title a { border-bottom: 0; }
+
+.su-posts-default-loop .pubdate, .su-posts-teaser-loop .pubdate { font-size: 13px; text-transform: uppercase; }
+
+.su-posts-default-loop .su-post-meta, .su-posts-teaser-loop .su-post-meta { text-transform: uppercase; font-size: 13px; line-height: 1.25; font-weight: normal; margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(100, 100, 100, 0.4); }
+
+.su-posts-default-loop .su-post-excerpt { margin-top: 12px; }
+
+.su-posts-default-loop .su-post-excerpt p:last-child { margin-bottom: 0; }
+
+.su-posts-single-post .su-post { margin-bottom: 24px; line-height: 1.5; }
+
+.su-posts-single-post .su-post:after { content: ''; display: table; clear: both; }
+
+.su-posts-single-post h1.su-post-title { clear: none; margin: 0 0 6px 0; font-size: 16px; text-transform: uppercase; font-weight: bold; }
+
+#footer-sidebar .su-posts-single-post h1.su-post-title { color: #fff; }
+
+.su-posts-single-post .su-post-meta { text-transform: uppercase; font-size: 13px; line-height: 1.25; font-weight: normal; }
+
+.su-posts-single-post .su-post-content { margin-top: 12px; }
+
+.su-posts-single-post .su-post-content p:last-child { margin-bottom: 0; }
