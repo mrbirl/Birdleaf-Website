@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Analytics Support &#8211; Birdleaf</title>
+	<atom:link href="http://birdleaf.io/category/support/analytics-support/feed" rel="self" type="application/rss+xml" />
+	<link>http://birdleaf.io</link>
+	<description>Customer Intelligence</description>
+	<lastBuildDate>Fri, 01 Apr 2016 08:53:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Troubleshoot Analytics Dashboard</title>
+		<link>http://birdleaf.io/troubleshoot-analytics-dashboard</link>
+		<pubDate>Thu, 05 Mar 2015 12:03:17 +0000</pubDate>
+		<dc:creator><![CDATA[birdleaf]]></dc:creator>
+				<category><![CDATA[Analytics Support]]></category>
+		<category><![CDATA[Support]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=802</guid>
+		<description><![CDATA[<p>I uploaded a list and my dashboard is empty This can happen because your list of emails didn&#8217;t import correctly. You can troubleshoot a list import here. &#160; What data can I see on the dashboard? The dashboard provides you with an aggregate view of you of your customers demographical information. You can see Customer [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/troubleshoot-analytics-dashboard">Troubleshoot Analytics Dashboard</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>I uploaded a list and my dashboard is empty</strong></p>
+<p>This can happen because your list of emails didn&#8217;t import correctly. You can troubleshoot a list import <a href="http://birdleaf.io/?p=787">here</a>.</p>
+<p>&nbsp;</p>
+<p><strong>What data can I see on the dashboard?</strong></p>
+<p>The dashboard provides you with an aggregate view of you of your customers demographical information. You can see Customer Personas, Location, Age, Gender, Job Function and Company Sector.</p>
+<p>&nbsp;</p>
+<p><strong>What are Customer Personas?</strong></p>
+<p>The customer persona section of the dashboard compares all the data from your customers email addresses to identify common trends and aggregates the data to show you your top three customer personas.</p>
+<p>&nbsp;</p>
+<p><strong>Can I filter through the data on the dashboard?</strong></p>
+<p>Currently the only way to filter through the data is through the <a href="http://app.birdleaf.io/#/rawdata">Raw Data</a> section of the application. If you are unsure how to filter through the raw data you can get help <a href="http://birdleaf.io/?p=804">here</a>.</p>
+<p>If you would like to be able to filter through the data on the dashboard you can <a href="http://app.birdleaf.io/#/support/">contact us for early access</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/troubleshoot-analytics-dashboard">Troubleshoot Analytics Dashboard</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Birdleaf</title>
+	<atom:link href="http://birdleaf.io/feed" rel="self" type="application/rss+xml" />
+	<link>http://birdleaf.io</link>
+	<description>Customer Intelligence</description>
+	<lastBuildDate>Fri, 01 Apr 2016 08:53:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>How to avoid spam filters and increase email deliverability</title>
+		<link>http://birdleaf.io/5-simple-ways-to-avoid-spam-filters-and-increase-email-deliverabiltiy</link>
+		<comments>http://birdleaf.io/5-simple-ways-to-avoid-spam-filters-and-increase-email-deliverabiltiy#respond</comments>
+		<pubDate>Tue, 08 Dec 2015 10:56:29 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1205</guid>
+		<description><![CDATA[<p>Email marketers spend a lot of time crafting email campaigns. From testing various email copy to crafting enticing subject lines in an attempt to maximize open rates and click through rates. But if your emails end up in peoples spam box instead of their inbox, your emails simply won&#8217;t get read. A recent IBM study highlighted [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/5-simple-ways-to-avoid-spam-filters-and-increase-email-deliverabiltiy">How to avoid spam filters and increase email deliverability</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Email marketers spend a lot of time crafting email campaigns. From testing various email copy to crafting enticing subject lines in an attempt to maximize open rates and click through rates. But if your emails end up in peoples spam box instead of their inbox, your emails simply won&#8217;t get read.</p>
+<p>A recent IBM study highlighted the impact deliverability rates can have on your email marketing. Their study found that 17% of emails never see the inside of the recipients inbox.</p>
+<p>The only way to avoid spam filters is to understand how spam filters work and how you can avoid them. In this post we&#8217;ll go through the effects bad deliverability can have on your campaigns, the different spam filters and how they work, and how to craft emails that will avoid spam filters.</p>
+<h3>Effect of bad deliverability</h3>
+<p>In 2012 Sony launched an email marketing campaign to cross-sell the PlayStation Vita to existing PlayStation customers. The campaign was sent to 4.2 million people and resulted in 9,236 devices being sold, generating <a href="https://econsultancy.com/blog/65329-seven-inspirational-email-marketing-case-studies-from-the-digitals/" target="_blank">€2.9 million in revenue</a>.</p>
+<p>Lets say for arguments sake that 17% of the emails sony sent out ended up in spam boxes. That&#8217;s 714,000 emails. Had all those emails been delivered, sony could have potentially sold an extra 1919 units, generating an extra €602,537 in revenue. That being said, you&#8217;re not going to have 100% deliverability. But there are tricks you can use to maximize your email deliverability rate.</p>
+<h3>How spam filters work</h3>
+<p class="p1">To maximize deliverability rates for your campaigns it is really important to have a basic knowledge of how spam filters actually work and on what basis they flag an email as spam.</p>
+<p class="p1">Spam filters generally use a scoring framework and look at a few things when deciding what to do with emails: the sender&#8217;s technical specifics, the email&#8217;s content, reputation, and engagement.</p>
+<p class="p1"><strong><em>Technical Specifics</em></strong></p>
+<p class="p1">Spam filters will typically check for appropriate email authentication and your sending IP&#8217;s reputation when deciding whether to deliver your emails or make them disappear into cyberspace.</p>
+<p class="p1"><em><strong>Content</strong></em></p>
+<p class="p1">Here we&#8217;re talking about the actual content that is in your subject line and body of the email. Spam filters work by scanning the entire copy of the email searching for specific words typically found in spammy emails. In addition to the copy of the email the filters will look at formatting, link types, and image-to-text ratio. Some services like gmail will also look at spammy text within an image using image recognition.</p>
+<p class="p1"><strong><em>User Defined</em></strong></p>
+<p class="p1">This is also know as bayesian filtering and it&#8217;s one of the most widely used type of spam filters. These filters work by watching recipients classifying emails as junk. When a user classifies an email as spam the filter looks at the words and phrases in the subject line, email content, links, and so on. Over time, the filter learns to scan for those traits in every email.</p>
+<h3>Tactics for avoiding spam filters</h3>
+<p>Now you know how spam filters work, her&#8217;s how you can avoid them and maximize your email deliverability rate.</p>
+<p><em><strong>Avoid spam words</strong></em></p>
+<p>One of the fastest ways to end up in a subscriber&#8217;s spam folder is to load your email up with words that most email service providers have identified as common words in spam email. A good rule of thumb is, if it sounds like salesman lingo then it&#8217;s probably a spam trigger word.</p>
+<p>Unfortunately there isn&#8217;t one simple list of a all the words you should avoid. This is because spam filters are so sophisticated and words will vary between industries.</p>
+<p>Here&#8217;s some examples of spam words to avoid if you are in the financial or marketing space:</p>
+<p><em>Financial</em></p>
+<div class="su-table">
+<table>
+<tbody>
+<tr>
+<td>$$$</td>
+<td>Affordable</td>
+<td>Bargin</td>
+</tr>
+<tr>
+<td>Cash</td>
+<td>Cash bonus</td>
+<td>Cheap</td>
+</tr>
+<tr>
+<td>F r e e</td>
+<td>Fast cash</td>
+<td>For just $XXX</td>
+</tr>
+<tr>
+<td>Get out of debt</td>
+<td>No fees</td>
+<td>Save big money</td>
+</tr>
+<tr>
+<td>Save up to</td>
+<td>Stock alert</td>
+<td>Subject to credit</td>
+</tr>
+<tr>
+<td>Unsecured debt</td>
+<td>US dollars</td>
+<td>Why pay more</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Marketing</em></p>
+<div class="su-table">
+<table>
+<tbody>
+<tr>
+<td>Click here</td>
+<td>Email marketing</td>
+<td>Form</td>
+</tr>
+<tr>
+<td>Increase sales</td>
+<td>Increase traffic</td>
+<td>More internet traffic</td>
+</tr>
+<tr>
+<td>Internet marketing</td>
+<td>Marketing solutions</td>
+<td>Month trial offer</td>
+</tr>
+<tr>
+<td>Online marketing</td>
+<td>Visit our site</td>
+<td>Web traffic</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>For a more comprehensive lists of words you should avoid, check out this industry specific <a href="http://blog.hubspot.com/blog/tabid/6307/bid/30684/The-Ultimate-List-of-Email-SPAM-Trigger-Words.aspx" target="_blank">post by Hubspot</a>.</p>
+<p><em><strong>Formatting</strong></em></p>
+<p>Suspicious formatting not only triggers spam filters, it might also annoy your recipients into marking your emails as a spam. Here are some basic formatting tips when designing your emails:</p>
+<ol>
+<li><strong>AVOID CAPITAL LETTERS</strong> &#8211; avoid using capital letters in your email copy and subject lines.</li>
+<li><b>Don&#8217;t over-use punctuation marks!!!!!?</b> &#8211; try and avoid excessive use of punctuation marks, especially in a row.F</li>
+<li><strong>Keep fonts consistent</strong> &#8211; avoid bright <span style="color: red;">red</span> fonts or going crazy with <strong><span style="color: blue;">c</span><span style="color: green;">o</span><span style="color: yellow;">l</span><span style="color: pink;">o</span><span style="color: grey;">r</span><span style="color: purple;">s</span></strong>, styles, and formatting.</li>
+<li><strong>Provide an unsubscribe link</strong> &#8211; This is the law. If your emails are missing an unsubscribe link they&#8217;ll trigger spam filters.</li>
+<li><strong>Don&#8217;t link too much</strong> &#8211; try and include as few links as possible in your emails. For any links you do include, avoid using URL shorteners as they&#8217;re frequently abused by spammers.</li>
+<li><strong>Make sure the HTML code is clean</strong> &#8211; sloppy HTML code can get you spam filtered. If you use a drag and drop editor to code your email sometimes they include useless code that&#8217;s invisible to the user. This makes filters think you&#8217;re a sloppy spammer.</li>
+<li><strong>Include text</strong> &#8211; Sometimes it can be appealing to just use a bunch of slick graphics and images. But spam filters can&#8217;t read images so they assume you&#8217;re a spammer trying to trick them.</li>
+<li><b>Avoid mashing text with numbers</b> &#8211; creative spelling is a classic sign of a spammer trying to include words they shouldn&#8217;t. For instance: Cl1ck h3r3 f0r fr33 cash.</li>
+</ol>
+<p><em><strong>Engagement</strong></em></p>
+<p>Subscriber engagement is a huge part of getting emails into people&#8217;s inboxes. If your subscribers consistently ignore your emails, failing to open and click your emails, mail servers are going to presume you&#8217;re a spam sender. If your emails are getting low engagement they will end up in spam boxes, even if your subscribers aren&#8217;t marking the email as spam.</p>
+<p>Here&#8217;s some basic things you can do to avoid being flagged as spam if your emails have low engagement rates:</p>
+<ol>
+<li><strong>Have a policy for unengaged recipients</strong> &#8211; if someone is constantly ignoring your emails, remove them from your list. Keeping them on your list will do more harm than good.</li>
+<li><b>Keep email frequency low</b> &#8211; if you&#8217;re bombarding your subscribers with emails over a short period of time you&#8217;re increasing the likelihood they will be unengaged.</li>
+<li><strong>Keep your email list current and clean</strong> &#8211; if you start sending campaigns to old lists and prospects then you&#8217;re running the risk of the recipients marking your email as spam as they&#8217;ve probably forgotten who you are.</li>
+<li><strong>Remove bounces</strong> &#8211; if an email bounces, remove that recipient from your list.</li>
+</ol>
+<h3>Takeaways</h3>
+<p>Email marketing continues to be one of the most effective channels. But if your emails aren&#8217;t ending up in people&#8217;s inboxes then your emails aren&#8217;t going to get read and you&#8217;ll miss out on all that potential revenue.</p>
+<p>Now you have a basic understanding of how spam filters work and how you can avoid them you should keep these tips in mind when crafting your next campaign.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/5-simple-ways-to-avoid-spam-filters-and-increase-email-deliverabiltiy">How to avoid spam filters and increase email deliverability</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/5-simple-ways-to-avoid-spam-filters-and-increase-email-deliverabiltiy/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>[Infographic] Mind Blowing Email Marketing Statistics 2015</title>
+		<link>http://birdleaf.io/infographic-mind-blowing-email-marketing-statistics-2015</link>
+		<comments>http://birdleaf.io/infographic-mind-blowing-email-marketing-statistics-2015#respond</comments>
+		<pubDate>Thu, 03 Dec 2015 16:03:07 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1196</guid>
+		<description><![CDATA[<p>Are you using email marketing? How is it performing for you? Are you getting the returns you were expecting? This infographic compiles some of the most interesting email marketing statistics from 2015 that you should be aware of. Facts and Stats To Tweet 1. There are currently 4.4 billion email accounts. View email marketing growth statistics 2015 [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/infographic-mind-blowing-email-marketing-statistics-2015">[Infographic] Mind Blowing Email Marketing Statistics 2015</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Are you using email marketing? How is it performing for you? Are you getting the returns you were expecting? This infographic compiles some of the most interesting <a href="http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015" target="_blank">email marketing statistics</a> from 2015 that you should be aware of.</p>
+<p><img class="alignnone size-full wp-image-1197" src="http://birdleaf.io/wp-content/uploads/2015/12/email_marketing_statistics_2015.jpg" alt="Infographic containing email statistics from 2015" width="800" height="3679" srcset="http://birdleaf.io/wp-content/uploads/2015/12/email_marketing_statistics_2015-610x2805.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/12/email_marketing_statistics_2015-400x1840.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/12/email_marketing_statistics_2015-300x1380.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/12/email_marketing_statistics_2015.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3>Facts and Stats To Tweet</h3>
+<p><strong>1. </strong>There are currently 4.4 billion email accounts. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/434bp" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>2. </strong>There are 2.6 billion people actively using email. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/2Idkd" target="_blank">&gt;&gt;tweet&lt;&lt; </a></p>
+<p><strong>3. </strong>1.4 billion people use email on mobile devices. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/5TG13" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>4. </strong>205 billion emails are sent and received each day. View email marketing statistics 2015 infographic <a href="http://ctt.ec/e83sd" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>5. </strong>At work you typically receive 88 emails a day. View email marketing growth statistics 2015 infographic<a href="http://ctt.ec/Ji74q" target="_blank"> &gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>6.</strong> At work you typically send 34 emails a day. View email marketing statistics 2015 infographic <a href="http://ctt.ec/eebGi" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>7. </strong>Emails with social sharing increase CTR by 158%. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/_qFMa" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>8. </strong>53% of emails are opened on a mobile device. View email marketing statistics 2015 infographic <a href="http://ctt.ec/fPS9f" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>9. </strong>89% of emails are not optimized for mobile. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/rj5ee" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>10. </strong>40% of subscribers mark emails as spam due to irrelevancy. View email marketing statistics 2015 infographic <a href="http://ctt.ec/Zef0X" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>11.</strong> Email marketing spend in 2015 was $2.4 billion. View email marketing growth statistics 2015 infographic <a href="http://ctt.ec/cVj1w" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<p><strong>12. </strong>For every $1 spent on email marketing the average ROI is $43. View email marketing statistics 2015 infographic <a href="http://ctt.ec/C7k_L" target="_blank">&gt;&gt;tweet&lt;&lt;</a></p>
+<h3>Sources</h3>
+<p><strong>1. <a href="http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf" target="_blank">Radicati Group</a></strong></p>
+<p><strong>2. <a href="http://blog.getresponse.com/social-sharing-boosts-email-ctr.html" target="_blank">GetResponse</a></strong></p>
+<p><b>3. <a href="http://www.marketingsherpa.com/heap/WisdomReport2011.pdf" target="_blank">MarketingSherpa</a></b></p>
+<p><strong>4. <a href="https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33" target="_blank">Litmus</a></strong></p>
+<p><strong>5. <a href="https://www.cmocouncil.org/facts-stats-categories.php?view=all&amp;category=marketing-spend" target="_blank">CMO Council</a></strong></p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/infographic-mind-blowing-email-marketing-statistics-2015">[Infographic] Mind Blowing Email Marketing Statistics 2015</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/infographic-mind-blowing-email-marketing-statistics-2015/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>20 statistics that prove email marketing is (Still) Not Dead</title>
+		<link>http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015</link>
+		<comments>http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015#respond</comments>
+		<pubDate>Wed, 02 Dec 2015 12:36:38 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1195</guid>
+		<description><![CDATA[<p>Reports of email&#8217;s death are greatly exaggerated. Marketers seem to be constantly changing their minds about email marketing and the returns it brings, yet all the email marketing statistics clearly claim that email marketing simply works and has a positive impact for business. So what is the current state of email marketing? Every month a [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015">20 statistics that prove email marketing is (Still) Not Dead</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Reports of email&#8217;s death are greatly exaggerated. Marketers seem to be constantly changing their minds about email marketing and the returns it brings, yet all the email marketing statistics clearly claim that email marketing simply works and has a positive impact for business.</p>
+<p><img class="aligncenter size-full wp-image-1199" src="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead.jpg" alt="Google search results for &quot;email is dead&quot;" width="800" height="402" srcset="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead-610x307.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead-299x150.jpg 299w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead-400x201.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead-300x151.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-google-email-is-dead.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>So what is the current state of email marketing? Every month a new email-killing machine comes along, yet we&#8217;re receiving more promotional emails than ever.</p>
+<p>In this post we go through 20 of the top email marketing statistics that proves email marketing is still yielding massive returns, yet a lot of marketers are missing massive opportunities.</p>
+<h3>Email Reach Statistics</h3>
+<p>Email out numbers any social network in terms of active users. By the end of 2016 there will be over 4.6 billion email accounts.</p>
+<p><img class="aligncenter size-full wp-image-1201" src="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach.jpg" alt="Email marketing statistics showing the amount of people who use email world wide" width="800" height="376" srcset="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach-610x287.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach-319x150.jpg 319w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach-400x188.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach-300x141.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-reach.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /><br />
+<strong>1.</strong> There are currently 4.4 billion email accounts. This is almost 3X more than twitter and facebook combined. (<a href="http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf" target="_blank">Radicati Group</a>)</p>
+<p><strong>2.</strong> As of 2015 there are 2.6 billion active email users. Of these, 1.4 billion are accessing email on mobile devices. (<a href="http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf" target="_blank">Radicati Group</a>)</p>
+<p><strong>3.</strong> It is estimated that in 2015 205.6 billion emails were sent and received each day. About 112.5 billion of those are for the business sector. (<a href="http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf" target="_blank">Radicati Group</a>)</p>
+<p><strong>4.</strong> 78% of marketing emails are sent to personal email accounts. (<a href="http://www.bluekangaroo.com/media/ChoozOn-Blue_Kangaroo_Survey_on_Marketing_Emails_August_2012.pdf" target="_blank">Blue Kangaroo</a>)</p>
+<p><strong>5.</strong> In 2015, the number of business emails sent and received totals 122 emails per user per day. Typically receiving 88 emails and sending 34 emails. (<a href="http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf" target="_blank">Radicati Group</a>)</p>
+<p><strong>6.</strong> It is estimated that $2.4 billion was to be spent on email marketing in 2015. (<a href="https://www.cmocouncil.org/facts-stats-categories.php?view=all&amp;category=marketing-spend" target="_blank">CMO Council</a>)</p>
+<p><strong>7.</strong> There are currently 93% of marketers using email marketing. (<a href="http://go.webmarketing123.com/2015-State-of-Digital-Marketing-HP.html" target="_blank">Webmarketing 123</a>)</p>
+<h3>Email Usage Statistics</h3>
+<p>Email is one of the most personal mediums we have to communicate with our customers at scale. But to be really effective at email marketing you need to understand their preferences.</p>
+<p><img class="aligncenter size-full wp-image-1202" src="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments.jpg" alt="Email marketing statistics showing what environments emails are opened in. 53% open on mobile, 27% on desktop and 20% on webmail" width="800" height="425" srcset="http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments-610x324.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments-282x150.jpg 282w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments-400x213.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments-300x159.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/12/email-marketing-statistics-opening-environments.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /><br />
+<strong>8.</strong> 57% of subscribers spend 10-60 minutes a week browsing marketing emails. (<a href="http://www.bluekangaroo.com/media/ChoozOn-Blue_Kangaroo_Survey_on_Marketing_Emails_August_2012.pdf" target="_blank">Blue Kangaroo</a>)</p>
+<p><strong>9.</strong> Mobile matters: as of 2015, 53% of emails are opened on mobile. (<a href="https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33" target="_blank">Litmus</a>)</p>
+<p><strong>10.</strong> Even though half of all emails are opened on mobile, only 42% of marketers are optimizing for mobile. (<a href="http://www.marketingsherpa.com/article/excerpt/free-excerpt-email-marketing-benchmark-2013" target="_blank">MarketingSherpa</a>)</p>
+<p><strong>11.</strong> 80% of consumers will immediately delete if they don&#8217;t display properly. (<a href="http://www.bizreport.com/2013/03/bluehornet-302-unsubscribe-on-receipt-of-a-badly-formatted-m.html" target="_blank">BlueHornet</a>)</p>
+<p><strong>12.</strong> 91% of consumers check their email at least once a day. (<a href="https://expresspigeon.com/blog/2014/01/06/email-marketing-statistics-2014/" target="_blank">ExpressPigeon</a>)</p>
+<h3>Email Effectiveness Statistics</h3>
+<p>Still unsure if email is an effective channel for marketing? The statistics below speak for themselves.</p>
+<p><img class="aligncenter wp-image-1131 size-full" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data.jpg" alt="email segmentation case studies ROI data" width="800" height="368" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-610x281.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-326x150.jpg 326w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-400x184.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-300x138.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><i>New findings ROI has increased to $43 for every $1 invested.</i></p>
+<p><strong>13.</strong> Email converts better than SEO, digital ads, and social media. For every $1 invested in email marketing the average return is $43. That&#8217;s an ROI of 4300%. (<a href="https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33" target="_blank">Litmus</a>)</p>
+<p><strong>14.</strong> The average open rate (across all sectors &amp; company sizes) is 22.14% and the average click-through-rate (CTR) is 2.79%. (<a href="http://mailchimp.com/resources/research/email-marketing-benchmarks/" target="_blank">MailChimp</a>)</p>
+<p><strong>15.</strong> Marketers find that 2X higher open rates occur on mobile versus desktop. (<a href="http://marketingland.com/77-percent-of-us-want-to-get-marketing-messages-via-email-theres-no-close-second-place-study-says-9420" target="_blank">MarketingLand</a>)</p>
+<p><strong>16.</strong> Emails that include social sharing buttons have a higher CTR of 158% than those that don&#8217;t include share links. (<a href="http://blog.getresponse.com/social-sharing-boosts-email-ctr.html" target="_blank">GetResponse</a>)</p>
+<p><strong>17.</strong> Segmentation is critical. Four out of ten email subscribers mark emails as spam because they find the email irrelevant. (<a href="http://www.marketingsherpa.com/heap/WisdomReport2011.pdf" target="_blank">MarketingSherpa</a>)</p>
+<p><strong>18.</strong> Deliverability is a big issue: 17% of all emails never see the inside of a recipient’s inbox. This is due to defunct emails and SPAM traps. (<a href="http://www.ibm.com" target="_blank">IBM</a>)</p>
+<p><strong>19.</strong> Only 17% of marketers track and analyze their email marketing efforts, yet 60% of marketers believe email marketing produces positive ROI. (<a href="https://www.marketingsherpa.com/data/public/reports/benchmark-reports/EXCERPT-BMR-2013-Email-Marketing.pdf" target="_blank">MarkertingSherpa</a>)</p>
+<p><strong>20.</strong> You are 6X more likely to get a click through from an email campaign than you are from a tweet. Maybe it&#8217;s time to start taking email marketing a bit more seriously. (<a href="https://www.campaignmonitor.com/blog/email-marketing/2014/07/email-marketing-vs-social-media/" target="_blank">CampaingMonitor</a>)</p>
+<h3>Takeaways</h3>
+<p>Email clearly still matters and it doesn&#8217;t look like it&#8217;s going anywhere anytime soon. However from looking at these email marketing statistics it is quite clear that a lot of marketers have really bad habits.</p>
+<p>It is evident that mobile is being completely neglected. This is one of the biggest reasons email marketing under performs. Also deliverability remains to be a massive issue, with nearly 20% of emails getting lost in transit.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015">20 statistics that prove email marketing is (Still) Not Dead</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/20-statistics-that-prove-email-marketing-is-still-not-dead-in-2015/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 email marketing optimization tactics to boost revenue</title>
+		<link>http://birdleaf.io/10-email-marketing-optimization-tactics-to-boost-revenue</link>
+		<comments>http://birdleaf.io/10-email-marketing-optimization-tactics-to-boost-revenue#respond</comments>
+		<pubDate>Fri, 27 Nov 2015 14:32:25 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1181</guid>
+		<description><![CDATA[<p>In terms of users,  email out numbers any social network. By the end of 2016 there will be over 4.3 billion email accounts. In addition to this, email marketing is still ranked as the best channel in terms of return on investment. But is your email marketing performing as well as it could? A report published [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/10-email-marketing-optimization-tactics-to-boost-revenue">10 email marketing optimization tactics to boost revenue</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In terms of users,  email out numbers any social network. By the end of 2016 there will be over 4.3 billion email accounts. In addition to this, email marketing is still ranked as the best channel in terms of return on investment.</p>
+<p>But is your email marketing performing as well as it could? A report published by <a href="https://www.marketingsherpa.com/data/public/reports/benchmark-reports/EXCERPT-BMR-2013-Email-Marketing.pdf" target="_blank">Marketing Sherpa</a> found that 83% of marketers surveyed are overlooking the importance of tracking and testing their email marketing and metrics.</p>
+<p><img class="aligncenter wp-image-1192" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-stats.jpg" alt="Stats for marketers that are using email marketing optimization tactics" width="300" height="304" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-stats-148x150.jpg 148w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-stats-400x405.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-stats-300x304.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-stats.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>In this post I&#8217;ll give you 10 actionable email marketing optimization tactics you can use to keep your subscribers subscribed and interested in your emails.</p>
+<h3>1. Optimize for mobile</h3>
+<p>Smartphones and tablets can no longer be ignored by email marketers. <a href="https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33" target="_blank">A report</a> published last year found that 53% of emails are opened on mobile. And that figure will continue to grow rapidly over the coming years.</p>
+<p><img class="aligncenter size-full wp-image-1184" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-mobile-optimized.jpg" alt="A mobile optimized email example" width="352" height="662" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-mobile-optimized-300x564.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-mobile-optimized.jpg 352w" sizes="(max-width: 352px) 100vw, 352px" /></p>
+<p>If that statistic doesn&#8217;t give food for thought, this will. <a href="http://www.bizreport.com/2013/03/bluehornet-302-unsubscribe-on-receipt-of-a-badly-formatted-m.html" target="_blank">A report </a>from email marketing company BlueHornet found that over 80% of consumers immediately delete emails that don&#8217;t display properly on  a mobile device.</p>
+<p><em><strong>Takeaway: </strong></em>If you&#8217;re not optimizing for mobile you have an 80% chance that message will be instantly deleted and run the risk of losing that subscriber altogether.</p>
+<h3>2. Match your subject line to your email copy</h3>
+<p>Most of your subscribers are probably being bombarded with spammy emails on a daily basis. The last thing they want to do is open an email with a compelling subject line only to find the body of the email has nothing to do with the subject.</p>
+<p>Your subject line offers a snippet of the email. If it is misleading you are likely to frustrate your readers and deter them from opening future emails.</p>
+<p>Businesses who use misleading subject lines may see a lift in open rates, but will more than likely experience decreased click-through rates as the content doesn&#8217;t match the promise of the subject.</p>
+<p><strong><em>Takeaway: </em></strong>Your subject line offers a promise of the email. To make sure the align you should write the subject line after you&#8217;ve written the content.</p>
+<h3></h3>
+<h3>3. Optimize landing pages to match email copy</h3>
+<p>To create a seamless online experience for your customers you need to create specific landing pages for specific email marketing campaigns.</p>
+<p>Does the landing page fulfill the expectations of the value proposition of the link leading into it? If the answer is no, then the reader will likely be confused and you&#8217;ll decrease the chances of converting that sale.</p>
+<p>ASOS do an awesome job of this. I get this email:</p>
+<p><img class="aligncenter size-full wp-image-1185" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email.jpg" alt="Example email from ASOS" width="800" height="500" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email-610x381.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email-240x150.jpg 240w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email-400x250.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email-300x188.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-email.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>And here&#8217;s the corresponding landing page to that CTA:</p>
+<p><a href="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page.jpg"><img class="alignnone size-full wp-image-1187" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page.jpg" alt="ASOS landing page that corresponds to email" width="800" height="656" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page-610x500.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page-183x150.jpg 183w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page-400x328.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page-300x246.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-asos-offer-landing-page.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>I love the way that the CTA is tied to the landing page. All I have to do is pick the size and checkout. Two simple steps.</p>
+<p>The email is essentially a template for your website. If I get a promotional email for &#8220;50% off shoes&#8221; and the email directs me to a page with jumpers, the likelihood is I&#8217;ll just close the tab.</p>
+<p><em><strong>Takeaway: </strong></em>Increase your sales conversions by matching your email campaigns with your landing pages.</p>
+<h3></h3>
+<h3>4. Include social sharing</h3>
+<p><a href="http://blog.getresponse.com/social-sharing-boosts-email-ctr.html" target="_blank">GetResponse </a>report that emails including social sharing buttons have a 158% higher click-through rate than those that don&#8217;t.</p>
+<p>By including social sharing buttons in your emails you create a simple way for your subscribers to share with their social following. This in turn could generate new leads for your business.</p>
+<p><img class="alignnone wp-image-1188 size-full" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share.jpg" alt="Email from groove that includes a social share button" width="800" height="448" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share-610x342.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share-268x150.jpg 268w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share-400x224.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share-300x168.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-social-share.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><strong><em>Takeaway: </em></strong>Include social share buttons in your emails you&#8217;ll extend your email reach.</p>
+<h3>5. Optimize your emails with images turned off</h3>
+<p>This is a really simple but effective tip that will improve click-through rates from your emails. A lot of email providers, like Outlook &amp; Yahoo, have images turned off by default which can have a disastrous effect on your email campaigns.</p>
+<p>Obviously using images in your email campaigns allows you to create much nicer and compelling emails, so I&#8217;m not saying you shouldn&#8217;t use images. Just get smart about the design/layout. At the very least you should be placing useful and descriptive alt tags on all your images, as this text will display instead if the images don&#8217;t display.</p>
+<p><img class="alignnone size-full wp-image-1189" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized.jpg" alt="example email optimized for when images don't display" width="800" height="552" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized-610x421.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized-217x150.jpg 217w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized-400x276.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized-300x207.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-non-image-optimized.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>When image appears vs when they don&#8217;t</em></p>
+<p>Check out <a href="https://litmus.com/blog/pizzaexpress-inspires-with-images-off-email-optimization" target="_blank">this example</a> of how PizzaExpress optimize their emails in the event that the images don&#8217;t show.</p>
+<p><em><strong>Takeaway: </strong></em>Make sure to include descriptive alt tags for your images so the reader can understand the email if the images don&#8217;t display.</p>
+<h3>6. Segment your subscribers</h3>
+<p>Relevance is central to today’s marketing strategy, and buyers have come to expect personalization in their communications. Four out of ten subscribers will mark an email as spam simply because they were irrelevant.</p>
+<p class="p1">Emails that have been tailored to specific audiences through segmentation get 39% more opens and 24% more revenue than non-segmented lists.</p>
+<p class="p1">You can build your segmentation strategy based on your different customer personas. Once you&#8217;ve defined your different segments you can identify the data points you wish to use to divide your list and then begin crafting tailored content.</p>
+<p class="p1"><em><strong>Takeaway: </strong></em>Tailor your campaigns to each segment and you&#8217;ll increase click-through rates and profits.</p>
+<h3>7. Create a clear CTA</h3>
+<p>One of the best ways to increase conversion rates is to optimize your call-to-action buttons. The purpose of your CTA is to leave no room for doubt</p>
+<p><img class="alignnone size-full wp-image-1190" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta.jpg" alt="Example of an email with one clear CTA" width="800" height="618" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta-610x471.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta-194x150.jpg 194w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta-400x309.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta-300x232.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-clear-cta.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>Good example of an email with a clear CTA</em></p>
+<p>The best performing emails will contain one clear CTA.</p>
+<p>Your call to action should be obvious and visually appealing, leaving no room for doubt about what the reader should do next.</p>
+<p><em><strong>Takeaway: </strong></em>Include one clear and prominent CTA to increase your click-through rates.</p>
+<h3>8. Use a newsletter service</h3>
+<p>This probably seems like a weird point but it is really important that you use the right email marketing provider. When running email marketing campaigns a lot of businesses don&#8217;t think about the deliverability of their emails.</p>
+<p>Some service providers have much better deliverability rates than others. <a href="http://www.quicksprout.com/2013/06/24/5-simple-ways-to-increase-your-email-deliverability-rates/" target="_blank">Quicksprout</a> found that switching provider resulted in a 44% increase in open rates and a 67% increase in click-through rates. The email copy and subject lines were the exact same on both services.</p>
+<p><strong><em>Takeaway: </em></strong>Do research before picking an email marketing app.</p>
+<h3>9. Personalize you emails</h3>
+<p>Email is one of the most personal mediums we have to communicate with our customers at scale. Subscribers understand that email campaigns are sent out to the masses, but that doesn&#8217;t mean they will settle for generic email blasts.</p>
+<p><img class="alignnone size-full wp-image-1191" src="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail.jpg" alt="A email attempting to be personal but put the wrong tag where name should be" width="800" height="550" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail-610x419.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail-218x150.jpg 218w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail-400x275.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail-300x206.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Email-marketing-optimization-tactics-personalization-fail.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>When a subscriber signs up and uses your product try and get as much information as possible. This will allow you to include personalizations such as name, interests, location and so on.</p>
+<p>Also writing in the second person is a lot more personable, so try and use language like &#8216;you&#8217; and &#8216;me&#8217;.</p>
+<p><em><strong>Takeaway: </strong></em>Personalizing your emails will create a much better tone in your emails and will build better relationships with your subscribers.</p>
+<h3>10. Make your emails as short as possible</h3>
+<p>The shorter the email, the greater the chance someone will read and engage with them. Most people suffer from email overload. As a result they will give your email a quick scan and decide within a few seconds whether to delete it or click-through. Unnecessarily long emails introduce friction and decrease the chances the reader will interact with the email.</p>
+<p>For newsletters in particular, you should just include a short teaser enticing the reader to click through to the full content on your website.</p>
+<p><strong><em>Takeaway: </em></strong>To increase the chances of your readers clicking through shorten your emails and reduce the amount of text.</p>
+<p>And there you have it. We&#8217;ve just gone through 10 email marketing optimization tactics you can start incorporating into your email marketing straight away and increase your ROI.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/10-email-marketing-optimization-tactics-to-boost-revenue">10 email marketing optimization tactics to boost revenue</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/10-email-marketing-optimization-tactics-to-boost-revenue/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The 10 best email marketing and newsletter apps</title>
+		<link>http://birdleaf.io/the-10-best-email-marketing-and-newsletter-apps</link>
+		<comments>http://birdleaf.io/the-10-best-email-marketing-and-newsletter-apps#respond</comments>
+		<pubDate>Wed, 25 Nov 2015 08:24:23 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1166</guid>
+		<description><![CDATA[<p>All this talk and debate about emails death is greatly exaggerated. A recent study concluded that email is almost 40 times better at acquiring new customers than Facebook, Twitter and Google Adwords. With that in mind, email marketing should play a heavy role in your overall marketing strategy! In this post we&#8217;ll look at some of [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/the-10-best-email-marketing-and-newsletter-apps">The 10 best email marketing and newsletter apps</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>All this talk and debate about emails death is greatly exaggerated. A recent study concluded that email is almost 40 times better at acquiring new customers than Facebook, Twitter and Google Adwords.</p>
+<p>With that in mind, email marketing should play a heavy role in your overall marketing strategy! In this post we&#8217;ll look at some of the best email marketing and newsletter apps to help you kick start your email marketing.</p>
+<p>All the email marketing apps we mention are capable of sending great newsletters. A lot of the apps are a lot more feature rich than others so it depends what <a href="https://emailexperience.org/2014/12/the-5-stages-of-email-segmentation-sophistication-how-evolved-are-you/" target="_blank">approach</a> you want to take with your email marketing.</p>
+<h3>Factors to consider</h3>
+<p>When deciding on which email marketing app you should be purchase to run your campaigns there are 5 key factors to consider. Some factors will be more important than others depending on your business but it is worth keeping the importance of each factor to your business in mind as you read through this post.</p>
+<ul>
+<li>Price</li>
+<li>Reporting &amp; Analytics</li>
+<li>Segmentation</li>
+<li>Customization</li>
+<li>Automation</li>
+</ul>
+<p>Below are the best apps that send email newsletters (<em>in no particular order</em>). For each app you&#8217;ll find a screenshot, a brief review, and pricing information.</p>
+<h3>1. Mailchimp</h3>
+<p><img class="aligncenter size-full wp-image-1167" src="http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of mailchimps email designer" width="800" height="454" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps-610x346.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps-264x150.jpg 264w, http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps-400x227.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps-300x170.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Mailchimp_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><a href="http://mailchimp.com" target="_blank">Mailchimp</a> is one of the most popular email marketing apps. It is incredibly simple and intuitive to use and it has tonnes of really slick pre-designed templates.  MailChimp offers everything from a drag-and-drop email editor to detailed subscriber profiles that track your contacts interactions with your emails, and more.</p>
+<p>MailChimp allows you to easily customize your email campaigns for recipients with merge-tags. If you want to grab your reader’s attention by including their first name in the subject line (<a href="http://blog.hubspot.com/marketing/psychology-personalization" target="_blank">personalization is proven to be an effective marketing tactic</a>), simple add the merge tag *|FNAME|*to the subject line. MailChimp also offers really simple segmentation. You can set certain criteria a subscriber must meet before sending them a tailored message. For example, for every subscriber whose location is New York send them the &#8220;New York Flash Sale&#8221; email.</p>
+<p><a href="http://mailchimp.com/pricing/" target="_blank">Pricing:</a> MailChimp offer a free plan that allows allows you have up to 2,000 subscribers and 12,000 emails per month. From there they charge based on usage starting at $10 per month for unlimited emails to 500 subscribers.</p>
+<p>&nbsp;</p>
+<h3>2. AWeber</h3>
+<p><img class="aligncenter size-full wp-image-1168" src="http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of awebers email designer" width="800" height="458" srcset="http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps-610x349.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps-262x150.jpg 262w, http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps-400x229.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps-300x172.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/AWeber_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><a href="https://www.aweber.com" target="_blank">AWeber</a> is another great option for those that are new to email marketing. All you need to do is simply choose a template (mobile responsive) and input your content. So no faffing about with design. However, for anyone who wants to customize the emails they send to their customers, this might not be their preferred way of working. There are a huge amount of templates to choose from <em>(over 700 in fact)</em> or you can pay a premium to have a template designed for you <em>(starting from $29)</em>.</p>
+<p>If you want to really make the most of your campaigns and generate a high ROI, learning to manage your subscribers effectively is essential. AWeber allows you to do a really good job at this. You can create heavily customized submission forms with up to 25 fields. Using this data it is really simple to segment your subscribers into different groups ensuring you provide more personalized content for the reader.</p>
+<p><a href="http://www.aweber.com/pricing" target="_blank">Pricing:</a> AWeber offers a free fully functional 30-day trial. After this prices start at $19 per month for up to 500 subscribers and unlimited emails.</p>
+<h3>3. ActiveCampaign</h3>
+<p><img class="aligncenter size-full wp-image-1170" src="http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of ActiveCampaigns dashboard" width="800" height="459" srcset="http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps-610x350.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps-261x150.jpg 261w, http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps-400x230.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps-300x172.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/ActiveCampaign_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><a href="http://www.activecampaign.com" target="_blank">ActiveCampaign</a> has one of the most comprehensive offerings on this list. Their product combines a full CRM and marketing automation suite along with its email newsletter tool meaning it’s not just about emails. It is really a platform to allow you to grow your business, manage your leads and your clients too.</p>
+<p>ActiveCampaign provides a simple tool to create customized sign-up forms that you can display on your website and Facebook page to help you build your subscriber list. For your emails you have a full-featured email editor. You can drag-and-drop email elements, design them the way you want, and quickly send your finished newsletters off to your subscribers.</p>
+<p>The best bit of ActiveCampaign is its campaign automation. They offer a variety of tools you can use to target your customers with timely messages and personalized content without spending every waking hour managing your campaigns.</p>
+<p><a href="http://www.activecampaign.com/pricing/" target="_blank">Pricing:</a> ActiveCampaign offer a 14-day trial. After this the entry level package is $9 per month for up to 500 subscribers and unlimited emails.</p>
+<h3>4. GetResponse</h3>
+<p><img class="aligncenter size-full wp-image-1171" src="http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of Get Response email designer" width="800" height="457" srcset="http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps-610x348.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps-263x150.jpg 263w, http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps-400x229.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps-300x171.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/GetResponse_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>With over <a href="https://litmus.com/blog/53-of-emails-opened-on-mobile-outlook-opens-decrease-33" target="_blank">53% of emails</a> opened on mobile, <a href="http://www.getresponse.com" target="_blank">GetResponse</a> is a great option for those that put mobile first. It&#8217;s biggest strength is its responsive email design functionality that automatically adjusts your newsletter&#8217;s template so if a user is reading it on a smartphone, the layout and fonts will be automatically optimised for it. A lot of the competing platforms have added this functionality recently, but GetResponse is one of the only services that offers live mobile-previews.</p>
+<p>GetResponse offers one of the most comprehensive reporting and analytics tools. Aside from the basics of open rates and clickthroughs they offer &#8216;one click segmentation&#8217; and &#8217;email ROI&#8217; to name a few, meaning tracking important metrics for your business is a breeze. One other cool feature that GetResponse offers is a landing page creator to collect more leads.</p>
+<p><a href="https://secure.getresponse.com/pricing/en/" target="_blank">Pricing:</a> GetResponse offer a free 30-day trial. After this pricing starts at $15 for up to 1000 contacts and unlimited emails.</p>
+<h3>5. Constant Contact</h3>
+<p><img class="aligncenter size-full wp-image-1172" src="http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of ConstantContact email designer" width="800" height="458" srcset="http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps-610x349.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps-262x150.jpg 262w, http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps-400x229.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps-300x172.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/constantcontact_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><a href="http://www.constantcontact.com" target="_blank">ConstantContact</a> offer a really slick drag and drop editor making it really seamless to customize one of their templates. They also offer a lot of extras that you can include in your emails such as polls, surveys, videos and more.</p>
+<p>You can create comprehensive reports on your email campaigns to show number of opt-outs, complaints, bounces, forwards and click-throughs. The social-share tool allows you to easily post and track your emails on all your social networks. The social stats reporting tools clearly illustrate the number of shares, likes, tweets and more that your messages receive. You can also see the number of total social shares and page views your email campaign has generated.</p>
+<p><a href="http://www.constantcontact.com/pricing" target="_blank">Pricing:</a> ConstantContact offer a 60-day free trial. After  this plans start at $20 per month for up to 500 subscribers and unlimited emails.</p>
+<h3>6. TinyLetter</h3>
+<h3><img class="aligncenter size-full wp-image-1173" src="http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of TinyLetter email designer" width="800" height="458" srcset="http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps-610x349.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps-262x150.jpg 262w, http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps-400x229.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps-300x172.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/tinyletter_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></h3>
+<p>If you&#8217;re looking for a no frills and super basic app then TinyLetter is for you! It&#8217;s ridiculously simple to use and has pretty much no features. It simply lets you create simple plain-text  newsletters and basic custom landing pages allowing you to collect email addresses.</p>
+<p>TinyLetter is run by MailChimp and they will only allow you add up to 5,000 subscribers. After that you&#8217;ll need a more feature rich platform like MailChimp.</p>
+<p>Pricing: Absolutely Free!</p>
+<h3>7. Emma</h3>
+<h3><img class="aligncenter size-full wp-image-1174" src="http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of Emma email designer" width="800" height="450" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps-610x343.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps-267x150.jpg 267w, http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps-400x225.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps-300x169.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/Emma_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></h3>
+<p><a href="http://myemma.com" target="_blank">Emma</a>&#8216;s email app is well known for its simplicity and killer design. They provide you with a really slick drag and drop email editor and a lot of nice templates. One really interesting thing about Emma is they offer a concierge service to design and write your emails for you as well as setting up drip campaigns. So if you were looking on hiring a designer to craft your email campaigns then you should look no further than Emma as they know what works for each use case.</p>
+<p>The also offer smart audience segmentation with unlimited groups and contact fields and simple automation workflows that keep your subscribers engaged.</p>
+<p>Pricing: Emma offer a 30-day free-trial after which pricing starts at $49 per month for up to 2,500 subscribers and unlimited emails.</p>
+<p>&nbsp;</p>
+<h3>8. Mailjet</h3>
+<p><img class="aligncenter size-full wp-image-1175" src="http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of Mailjets email designer" width="800" height="449" srcset="http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps-610x343.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps-267x150.jpg 267w, http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps-400x225.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps-300x168.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/mailjet_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><a href="http://mailjet.com" target="_blank">Mailjet</a> allows you to send marketing and transactional email from one account to optimize your customer’s email experience. In addition to their send API, Mailjet includes a simple template designer where you can design responsive emails  templates on the fly without the help of your developer.</p>
+<p>The big selling point for Mailjet is its powerful list segmentation where you can segment your subscribers based on preferences, behaviours and characteristics. Their  send API can be leveraged to constantly push fresh contact data from any source meaning the segmentation possibilities are endless!</p>
+<p><a href="https://www.mailjet.com/pricing_v3" target="_blank">Pricing:</a> Mailjet offer a free 30-day trial and plans start from $7.49 per month for 30,000 emails.</p>
+<h3>9. Campaign Monitor</h3>
+<p><img class="aligncenter size-full wp-image-1176" src="http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of Campaign Monitors email designer" width="800" height="456" srcset="http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps-610x348.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps-263x150.jpg 263w, http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps-400x228.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps-300x171.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/CampaignMonitor_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p class="p1">While using templates for your email marketing has many benefits, they can start to look a bit generic and have less impact. <a href="https://www.campaignmonitor.com" target="_blank">Campaign Monitor</a> combats this by making it as easy as possible to code your own templates. You can import your own HTML templates by using Campaign Monitor’s tags to make sure you’re able to use its integrated template editor to edit and personalize content in future. That being said they do offer some nice templates that you can use and customize off the bat.</p>
+<p class="p1"><span class="s1">Campaign Monitor generates actual screens of your email design in popular email clients like Gmail, Hotmail, Yahoo and many more. This allows you to get your campaigns displaying properly in all email clients.</span></p>
+<p class="p1"><a href="https://www.campaignmonitor.com/pricing/" target="_blank">Pricing: </a>Campaign Monitor have a free trial, but you can&#8217;t send any emails. Pricing starts at $9 per month for up to 500 contacts and 2,500 emails.</p>
+<h3>10. Freshmail</h3>
+<h3><img class="aligncenter size-full wp-image-1177" src="http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps.jpg" alt="A screenshot of Freshmail email designer" width="800" height="460" srcset="http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps-610x351.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps-261x150.jpg 261w, http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps-400x230.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps-300x173.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/freshmail_best-email-marketing-and-newsletter-apps.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></h3>
+<p>When you go to build your first newsletter in <a href="http://freshmail.com" target="_blank">FreshMail</a> the most noticable thing is the amount of customization you have. The FreshMail Designer is drag and drop and they offer very slick ready-to-use email templates. They offer a hugh amount of graphics so you can play around with lots of different designs.</p>
+<p>One thing that is very notable from their editor is the ability to create emails that look like really nice product demo pages. Ideal for product launches and announcements. On top of their editor the offer good analytics and drip campaigns.</p>
+<p><a href="http://freshmail.com/pricing/" target="_blank">Pricing:</a> FreshMail offer a free account for up to 500 subscribers and unlimted emails. Pricing then starts at $15 per month for up to 1000 subscribers.</p>
+<h3>Takeaways</h3>
+<p class="p1">And there we have it, that concludes our list of the 10 best email marketing and newsletter apps! From ridiculously simple email marketing apps to full-blown marketing automation apps there should be at least one that fits the bill for your business!</p>
+<p class="p1">Pretty much all of the apps on the list offer a free trial allowing you to get a good overview of the product by creating an email campaign. Even if you only send a test one to your own email address.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/the-10-best-email-marketing-and-newsletter-apps">The 10 best email marketing and newsletter apps</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/the-10-best-email-marketing-and-newsletter-apps/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 highly effective email marketing strategies</title>
+		<link>http://birdleaf.io/3-highly-effective-email-marketing-strategies</link>
+		<comments>http://birdleaf.io/3-highly-effective-email-marketing-strategies#respond</comments>
+		<pubDate>Mon, 23 Nov 2015 17:50:50 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1140</guid>
+		<description><![CDATA[<p>Email still matters. A lot! In some previous posts we went through the benefits of email marketing and some real working case studies of email marketing segmentation strategies that have proven results. Email marketing has some major advantages compared to most other marketing channels. It&#8217;s got high reach, it&#8217;s low cost and it&#8217;s easy to test [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/3-highly-effective-email-marketing-strategies">3 highly effective email marketing strategies</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Email still matters. A lot! In some previous posts we went through the <a href="http://birdleaf.io/why-email-marketing-segmentation-matters">benefits of email marketing</a> and some real working <a href="http://birdleaf.io/5-killer-email-segmentation-case-studies">case studies of email marketing segmentation strategies</a> that have proven results.</p>
+<p>Email marketing has some major advantages compared to most other marketing channels. It&#8217;s got high reach, it&#8217;s low cost and it&#8217;s easy to test once you&#8217;ve built a small email list.</p>
+<p>In this post we’re going to cover the top three types of email marketing strategies, how to employ them successfully, and finally their advantages and disadvantages.</p>
+<h3>1. Educational Emails</h3>
+<p>Educational emails revolve around providing your subscribers with industry knowledge that&#8217;s connected to your business or product.</p>
+<p>This involves creating a piece of content (e.g. infographic, white papers, blog articles) and giving your subscribers a snippet of the content in an email prompting them back to your website. Or if your message is concise you may just send an email.</p>
+<p><img class="aligncenter size-full wp-image-1160" src="http://birdleaf.io/wp-content/uploads/2015/11/educational_email.jpg" alt="an educational email sent by help scout as part of their email marketing strategy" width="680" height="468" srcset="http://birdleaf.io/wp-content/uploads/2015/11/educational_email-610x420.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/educational_email-218x150.jpg 218w, http://birdleaf.io/wp-content/uploads/2015/11/educational_email-400x275.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/educational_email-300x206.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/educational_email.jpg 680w" sizes="(max-width: 680px) 100vw, 680px" /></p>
+<p>Educational content and email is really effective if your target audience is facing a problem or issue that your company can solve.</p>
+<p><strong>Advantages</strong></p>
+<ol>
+<li><strong>It builds trust</strong>. As you continually provide your subscribers with valuable information you will be seen as a industry thought leader. This increases they likely-hood they will evaluate your product when looking to purchase.</li>
+<li><strong>It&#8217;s sharable</strong>. As you create and deliver more valuable information your subscribers will be more likely to spread it on social networks. The more your content get shared the more leads you&#8217;ll generate.</li>
+<li><strong>It drives sales</strong>. If you consistently send the right information, at the right time, as your subscriber moves through the<a href="http://birdleaf.io/why-email-marketing-segmentation-matters" target="_blank"> sales cycle</a> you increase the likely-hood that they will purchase from you over a competitor.</li>
+</ol>
+<p><strong>Disadvantages</strong></p>
+<ol>
+<li><strong>It takes time</strong>. When you send an educational email, you’re trying to build a relationship with your customers. With that in mind it can take time to create relevant content and emails.</li>
+</ol>
+<h3>2. Promotional Emails</h3>
+<p>Nothing entices a customer more than a great deal. Your customer saves a few bucks and your revenue gets a boost. Not bad, right?</p>
+<p>Most e-commerce businesses rely heavily on promotional emails. But regardless of what kind of a business you run, you should know how to make offers in your emails.</p>
+<p><img class="aligncenter size-full wp-image-1161" src="http://birdleaf.io/wp-content/uploads/2015/11/promotional_email.jpg" alt="A promotional email sent as part of an email marketing strategy" width="662" height="480" srcset="http://birdleaf.io/wp-content/uploads/2015/11/promotional_email-610x442.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/promotional_email-207x150.jpg 207w, http://birdleaf.io/wp-content/uploads/2015/11/promotional_email-400x290.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/promotional_email-300x218.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/promotional_email.jpg 662w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p>Promotional emails aren’t reserved for only things like, “Get 70% off today only!” A promotional email can offer other perks too, like free shipping or a free product trial.</p>
+<p><strong>Advantages</strong></p>
+<ol>
+<li><strong>Easy to set up</strong>. Once you know what it is you’re promoting, all you need is the copy. Dedicated emails don’t have to rely on graphics or fancy layouts to engage readers.</li>
+<li><strong>Easy to track</strong>. As promotional emails tend to have only one call-to-action it&#8217;s easy to see who clicked through and purchased.</li>
+<li><strong>Quick impact on sales</strong>. If you&#8217;re not hitting your targets for the month you can run a quick promotion to boost sales.</li>
+</ol>
+<p><strong>Disadvantages</strong></p>
+<ol>
+<li><strong>Limited in what you can include</strong>. The whole point on promotional emails is having one very clear call-to-action. Your message will become quickly diluted if you start including multiple offers etc.</li>
+<li><strong>Can be irrelevant to subscriber</strong>. Some people on your email marketing list won&#8217;t get any value from your promotion and may unsubscribe. This may happen if you carry a big product range and send a Male a &#8220;70% off womens jeans&#8221; promotion. To keep them relevant you need to segment your list.</li>
+</ol>
+<h3>3. Lead Nurturing Emails</h3>
+<p>For many businesses, building a relationship with their leads is the primary reason for sending any emails. This is because you can specifically targeting subscribers that you want to turn into customers. This can be time consuming to set up but can yield massive returns.</p>
+<p>People do business with businesses they know and trust. The first time someone converts on your website, the likelihood that they really know who you are or understand why they should do business with you is pretty slim. As you build relationships with your leads you are increasing the chances that they will purchase from you as they move through the sales cycle.</p>
+<p><img class="aligncenter size-full wp-image-1162" src="http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email.jpg" alt="lead nurturing email example by hubspot as part of their email marketing strategy" width="800" height="590" srcset="http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email-610x450.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email-203x150.jpg 203w, http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email-400x295.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email-300x221.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/lead_nurturing_email.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>Example of an automated lead nurturing email by HubSpot</em></p>
+<p>It is important to note that relationship building should be part of each email marketing strategy. No matter what kind of an email you send.</p>
+<p><strong>Advantages</strong></p>
+<ol>
+<li><strong>Can be very personable</strong>. You are connecting directly with the client and tailoring your email and pitch specifically to them. This in turn will increase brand awareness and build trust.</li>
+<li><strong>Increase response</strong> <strong>rate</strong>. According to HubSpot, lead nurturing emails achieve <a href="http://blog.hubspot.com/blog/tabid/6307/bid/29757/Lead-Nurturing-Generates-Nearly-3X-More-Clicks-Than-Email-Blasts-Data.aspx">4-10 times the response rate</a> compared to standalone emails.</li>
+<li><strong>Shorten sales cycle</strong>.  <a title="Market2Lead found" href="http://customerexperiencematrix.blogspot.com/2010/09/hard-data-to-justify-your-marketing.html" target="_self">Market2Lead found </a>that nurtured leads have a 23% shorter sales cycle.</li>
+</ol>
+<p><strong>Disadvantages</strong></p>
+<ol>
+<li><strong>Time consuming</strong>. The main disadvantage is probably the amount of time and effort you’ll need to put behind your lead nurturing campaigns. Chances are each client will need a slightly tweaked approach, meaning very little can be templated.</li>
+<li><strong>They generate less buzz.</strong> More lead nurturing emails are only sent to one address, rather than the thousands-strong subscriber list of your newsletter.</li>
+</ol>
+<h3>Takeaways</h3>
+<p>There we have it! Three of the top email marketing strategies you should be implementing if you&#8217;re taking email marketing seriously.</p>
+<p>Generally speaking, the most effective email marketing campaign is  a mix of all of these techniques. Typically you should use three different email marketing strategies. You can emphasize some more than others, but you shouldn’t just stubbornly stick to one strategy.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/3-highly-effective-email-marketing-strategies">3 highly effective email marketing strategies</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/3-highly-effective-email-marketing-strategies/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Connecting Birdleaf To MailChimp Using Zapier</title>
+		<link>http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier</link>
+		<comments>http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier#respond</comments>
+		<pubDate>Fri, 20 Nov 2015 14:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Cian Brassil]]></dc:creator>
+				<category><![CDATA[Support]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1146</guid>
+		<description><![CDATA[<p>We recently launched our first 3rd party integration &#8211; Zapier! Using Zapier, you can connect Birdleaf to over 500 other services to automatically add emails to and export data from Birdleaf. A common request has been to automatically add new MailChimp signups to a list in Birdleaf. All this is now possible, and can be set [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier">Connecting Birdleaf To MailChimp Using Zapier</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We recently launched our first 3rd party integration &#8211; <a href="https://zapier.com" target="_blank">Zapier</a>! Using Zapier, you can connect Birdleaf to over 500 other services to automatically add emails to and export data from Birdleaf. A common request has been to automatically add new MailChimp signups to a list in Birdleaf.</p>
+<p>All this is now possible, and can be set up in just a few minutes! Before getting started, there are some quick necessary steps like getting your Zapier key which are <a href="http://birdleaf.io/how-to-use-zapier-with-birdleaf" target="_blank">covered in a previous post</a>, so check that out before going any further here <img src="http://birdleaf.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Right, let&#8217;s get to it&#8230;</p>
+<ol>
+<li>Sign in to your Zapier account, or click <a href="http://bit.ly/blzapinvt" target="_blank">this link</a> if you haven&#8217;t accepted an invite to add Birdleaf to Zapier yet.</li>
+<li>Click &#8216;Make a Zap&#8217; on the right of the dashboard area.<img class="alignnone size-large wp-image-1150" src="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-930x255.png" alt="Make a Zap" width="930" height="255" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-610x167.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-930x255.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-548x150.png 548w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-1400x384.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-400x110.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.11.20-p.m.-300x82.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></li>
+<li>Click &#8216;Choose a Trigger App&#8217; and select MailChimp.</li>
+<li>Click &#8216;Choose a Trigger&#8217; and select &#8216;New Subscriber&#8217;.</li>
+<li>From &#8216;Choose an Action App&#8217; select Birdleaf.</li>
+<li>Then click &#8216;Choose an Action&#8217; and select &#8216;Add Email Address&#8217;. Your setup should look like this so far &#8211; <img class="alignnone size-large wp-image-1151" src="http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-930x216.png" alt="Inital Connect Birdleaf Mailchimp" width="930" height="216" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-610x142.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-930x216.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-645x150.png 645w, http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-1400x326.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-400x93.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Inital-Connect-Birdleaf-Mailchimp-300x70.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></li>
+<li>Click &#8216;Choose a Mailchimp Account&#8217;. Select an existing Mailchimp account from the dropdown menu, or connect a new one. There&#8217;s a help article for this <a href="https://zapier.com/help/mailchimp/#get-started-mailchimp" target="_blank">here</a> if you need a hand.</li>
+<li>Click &#8216;Choose a Birdleaf Account&#8217;. If you already have a Birdleaf account linked, choose that account, or you can connect a new Birdleaf account. To connect an account, in the pop up box first name your Birdleaf account. Then, under &#8216;API Key&#8217; enter the Zapier key given to you in your Birdleaf <a href="http://app.birdleaf.io/#/user/account" target="_blank">Account</a> page. If you need help getting your key, <a href="http://birdleaf.io/how-to-use-zapier-with-birdleaf" target="_blank">see here</a>.<img class="alignnone size-large wp-image-1152" src="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-930x332.png" alt="Linking Your Birdleaf Account In Zapier" width="930" height="332" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-610x218.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-930x332.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-421x150.png 421w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-1400x499.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-400x143.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.36.58-p.m.-300x107.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></li>
+<li>Nearly there! Under &#8216;Filter Mailchimp Triggers&#8217;, select the list in your Mailchimp account which you would like emails to be added from. In the picture below we&#8217;ve chosen our &#8216;Newsletter Subscribers&#8217; list, so any emails added to that list (when someone signs up to our newsletter) will be sent to Birdleaf.<a href="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m..png"><img class="alignnone size-large wp-image-1153" src="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-930x365.png" alt="Choose a MailChimp list" width="930" height="365" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-610x239.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-930x365.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-383x150.png 383w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-1400x549.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-400x157.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.48.50-p.m.-300x118.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></a>We also only want to send subscribers that we get an email for. This is likely to be pretty much every subscriber, but you can optionally add a &#8216;Custom Filter&#8217; to make sure only ones with emails are sent (see above picture).</li>
+<li>Now we need to tell Birdleaf what to do with the info from MailChimp. Select the list in Birdleaf where you would like your MailChimp subscribers to be added. You also need to let Birdleaf know which MailChimp field is the email address, so we know what to look up! Under &#8216;Email&#8217; click &#8216;Insert Fields&#8217;, the select &#8216;Email&#8217;.<img class="alignnone size-large wp-image-1154" src="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-930x270.png" alt="Match MailChimp to Birdleaf in Zapier" width="930" height="270" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-610x177.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-930x270.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-516x150.png 516w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-1400x407.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-400x116.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-3.53.58-p.m.-300x87.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></li>
+<li>Before finishing you can optionally test your connection to make sure everything is working.</li>
+<li>Finally, give your Zap a name and turn it on! <img class="alignnone size-large wp-image-1155" src="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-930x199.png" alt="Name Your MailChimp To Birdleaf Zap" width="930" height="199" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-610x131.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-930x199.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-701x150.png 701w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-1400x300.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-400x86.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Screen-Shot-2015-11-20-at-4.02.01-p.m.-300x64.png 300w" sizes="(max-width: 930px) 100vw, 930px" />Once it&#8217;s turned on, new subscribers to that MailChimp list will automatically be added to your Birdleaf account and researched!</li>
+</ol>
+<p>I hope this helps! If you have any questions please leave a comment below, <a href="mailto:support@birdleaf.io">email us</a>, or contact us through the in-app support chat <img src="http://birdleaf.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2></h2>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier">Connecting Birdleaf To MailChimp Using Zapier</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How To Use Zapier With Birdleaf</title>
+		<link>http://birdleaf.io/how-to-use-zapier-with-birdleaf</link>
+		<comments>http://birdleaf.io/how-to-use-zapier-with-birdleaf#respond</comments>
+		<pubDate>Fri, 20 Nov 2015 12:40:31 +0000</pubDate>
+		<dc:creator><![CDATA[Cian Brassil]]></dc:creator>
+				<category><![CDATA[Support]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1125</guid>
+		<description><![CDATA[<p>Our Zapier integration is here! One of the top requests for Birdleaf has been to integrate with 3rd party tools. People wanted a way for emails to be automatically added to Birdleaf, and insights to be automatically exported to other tools. We chose to integrate with Zapier first, as this connects Birdleaf to the 500+ services they have integrations with. So, [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/how-to-use-zapier-with-birdleaf">How To Use Zapier With Birdleaf</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Our <a href="http://zapier.com" target="_blank">Zapier</a> integration is here! One of the top requests for Birdleaf has been to integrate with 3rd party tools. People wanted a way for emails to be automatically added to Birdleaf, and insights to be automatically exported to other tools. We chose to integrate with Zapier first, as this connects Birdleaf to the 500+ services they have integrations with.</p>
+<p>So, from today, you can connect Birdleaf to <a href="http://www.salesforce.com" target="_blank">Salesforce</a>, <a href="http://mailchimp.com" target="_blank">Mailchimp</a>, <a href="https://www.intercom.io" target="_blank">Intercom</a>, <a href="http://www.hubspot.com" target="_blank">HubSpot</a> and <a href="https://zapier.com/zapbook" target="_blank">many, many more</a>!</p>
+<p>To get started:</p>
+<ol>
+<li>First you&#8217;ll need to have a Zapier account &#8211; you can sign up <a href="https://zapier.com/sign-up/" target="_blank">here</a>.</li>
+<li>Next you&#8217;ll need your unique Zapier key from Birdleaf (you&#8217;ll add this key in Zapier to allow them to connect to you Birdleaf account). To get your key, visit your <a href="http://app.birdleaf.io/#/user/account" target="_blank">Account page</a>, and click &#8216;Generate Key&#8217; (see picture below).<a href="http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key.png"><img class="alignnone wp-image-1143 size-large" src="http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-930x109.png" alt="Click 'Generate Key' to get your unique Zapier key." width="930" height="109" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-610x71.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-930x109.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-1282x150.png 1282w, http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-1400x164.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-400x47.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Generate-Key-300x35.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></a>You now have a unique key to connect your Birdleaf account to Zapier.<a href="http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1.png"><img class="alignnone size-large wp-image-1145" src="http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-930x109.png" alt="Your Birdleaf Zapier Key" width="930" height="109" srcset="http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-610x72.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-930x109.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-1277x150.png 1277w, http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-1400x164.png 1400w, http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-400x47.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/Copy-Your-Zapier-Key1-300x35.png 300w" sizes="(max-width: 930px) 100vw, 930px" /></a></li>
+<li>Finally, our Zapier integration is still in private beta, so you&#8217;ll need to click the big button below to get access to Birdleaf in Zapier. (We&#8217;ll also send you an access link in a message when you generate your Zapier key in the Account page, so you have a copy).</li>
+</ol>
+<div class="su-button-center"><a href="http://bit.ly/blzapinvt" class="su-button su-button-style-flat su-button-wide" style="color:#ffffff;background-color:#2D89EF;border-color:#246ebf;border-radius:29px;-moz-border-radius:29px;-webkit-border-radius:29px" target="_blank"><span style="color:#ffffff;padding:6px 16px;font-size:13px;line-height:20px;border-color:#6cacf4;border-radius:29px;-moz-border-radius:29px;-webkit-border-radius:29px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"><i class="fa fa-arrow-right" style="font-size:13px;color:#FFFFFF"></i> Add Birdleaf To My Zapier Account Now!</span></a></div>
+<p>Now you&#8217;re ready to get started! If you&#8217;ve used Zapier before, you can connect Birdleaf just like an other app. If you need some help getting started, we have a walkthrough on <a href="http://birdleaf.io/connecting-birdleaf-to-mailchimp-using-zapier" target="_blank">how to connect Birdleaf to Mailchimp using Zapier here</a> as an example.</p>
+<p>We&#8217;d love to hear any feedback you have when using it to help us improve our integration going forward. If you have any questions feel free to comment below, send us <a href="mailto:support@birdleaf.io" target="_blank">an email</a>, or drop us a message in the in-app support chat. Enjoy!</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/how-to-use-zapier-with-birdleaf">How To Use Zapier With Birdleaf</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/how-to-use-zapier-with-birdleaf/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 killer email segmentation case studies</title>
+		<link>http://birdleaf.io/5-killer-email-segmentation-case-studies</link>
+		<comments>http://birdleaf.io/5-killer-email-segmentation-case-studies#respond</comments>
+		<pubDate>Wed, 18 Nov 2015 18:05:57 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1130</guid>
+		<description><![CDATA[<p>It’s common knowledge that segmenting your email-marketing lists helps you get better open and click rates, which ultimately leads to increased revenue. By narrowing your focus and sending tailored messages to targeted groups within your lists, your recipients will find your campaigns more relevant—and relevant campaigns get better results. According to eMarketer, &#8220;39% of marketers [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/5-killer-email-segmentation-case-studies">5 killer email segmentation case studies</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>It’s common knowledge that <a href="http://birdleaf.io/why-email-marketing-segmentation-matters">segmenting your email-marketing lists</a> helps you get better open and click rates, which ultimately leads to increased revenue. By narrowing your focus and sending tailored messages to targeted groups within your lists, your recipients will find your campaigns more relevant—and relevant campaigns get better results.</p>
+<p>According to <a href="http://blog.hubspot.com/blog/tabid/6307/bid/13879/Segment-Your-Email-List-To-Increase-Open-Rates-Data.aspx" target="_blank">eMarketer</a>, &#8220;39% of marketers who segmented their email lists experienced higher open rates, and 24% experienced greater revenue.&#8221;</p>
+<p>If utilised correctly, email can convert better than any other channel. A report found that for every $1 you invest in email you&#8217;ll get a <a href="http://www.business2community.com/email-marketing/14-email-marketing-statistics-you-need-to-know-0513966#RT5mCrlEHA4EQHeJ.97" target="_blank">$40 return</a>.</p>
+<p><img class="aligncenter size-full wp-image-1131" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data.jpg" alt="email segmentation case studies ROI data" width="800" height="368" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-610x281.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-326x150.jpg 326w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-400x184.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data-300x138.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-data.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>Email can represent a 4000% ROI</em></p>
+<p>In this post we&#8217;ll go through five highly effective email segmentation case studies. Each case study is different. Some companies segment by behavioural data whilst others  segment by demographical data.</p>
+<h3>Clothing brand increased revenue by 141% per campaign</h3>
+<p>Clothing brand Johnny Cupcakes launched a segmented email marketing campaign for the product launch of its new baseball T-shirts.</p>
+<p>By simply segmenting their email list into male and female subscribers they saw a <a href="http://www.marketingsherpa.com/article/case-study/social-behavioral-email-segmentation">141% increase in revenue per campaign</a>.</p>
+<p><img class="aligncenter size-full wp-image-1123" src="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe.jpg" alt="how to segment your email marketing list demographic data example" width="800" height="393" srcset="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-610x300.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-305x150.jpg 305w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-400x197.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-300x147.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em><i>Emails sent by Johnny Cupcakes segmented by gender.</i></em></p>
+<p>This basic demographic segmentation resulted in:</p>
+<ul>
+<li>42% increase in clickthrough rates</li>
+<li>123% increase in conversion rate</li>
+<li>141% increase in revenue per campaign</li>
+</ul>
+<h3>Fashion store increases sales by 550%</h3>
+<p>A fashion store identified a segment of customers who had made one or <a href="https://canopylabs.com/blog/increasing-e-mail-based-sales-by-5-5-times-a-case-study-in-segmentation" target="_blank">two significant purchases</a>, but don&#8217;t visit or buy on a regular basis.</p>
+<p>This allowed the fashion store to send this segment of their customer base an email thanking them for their past purchase and inviting them to purchase again with a small tailored offer in an attempt to re-active them.</p>
+<p><a href="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co.jpg"><img class="aligncenter size-full wp-image-1132" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co.jpg" alt="email segmentation case studies ROI at a Fashion Store" width="800" height="481" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co-610x367.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co-249x150.jpg 249w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co-400x241.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co-300x180.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-fashion-co.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p style="text-align: center;"><i>Segmented vs Generic Email Campaigns</i></p>
+<p style="text-align: left;">This basic behavioural (purchase history) segmentation resulted in:</p>
+<ul>
+<li>41% increase in open rates</li>
+<li>41% increase in clickthrough rates</li>
+<li>550% increase in purchases per campaign</li>
+</ul>
+<h3>E-commerce site increased CTR by 410%</h3>
+<p><a href="https://doggyloot.com/" target="_blank">Doggyloot</a> is a flash sale site that helps dog owners spoil their beloved canines. The company segments and personalizes emails based on &#8220;doggy data,&#8221; not people data.</p>
+<p>The company segments their customers into <a href="http://www.marketingsherpa.com/article/case-study/email-personalization-ctr-ecommerce-site#" target="_blank">3 groups based on dog size</a>. Small, medium, and large. This segmentation is based on the logic that it doesn&#8217;t make sense to offer a 10-pound bone to a five-pound dog. This basic level of segmentation yields some impressive results.</p>
+<p><img class="aligncenter wp-image-1133 size-full" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot.png" alt="email segmentation case studies ROI at doggyloot" width="1106" height="802" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot-610x442.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot-930x674.png 930w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot-207x150.png 207w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot-400x290.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot-300x218.png 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-doggyloot.png 1106w" sizes="(max-width: 1106px) 100vw, 1106px" /></p>
+<p style="text-align: center;"><em>Email sent to customers that own large dogs</em></p>
+<p style="text-align: left;">This basic demographical (dog size) segmentation resulted in:</p>
+<ul>
+<li>10% increase in open rate</li>
+<li>410% increase in click through rates</li>
+<li>13% increase in revenue per campaign</li>
+</ul>
+<h3>E-commerce site increased revenue by 278%</h3>
+<p>Online men&#8217;s retailer <a href="http://onwardreserve.com/" target="_blank">Onward Reserve</a> segmented customers based on purchase data that increased their <a href="http://web.windsorcircle.com/Portals/254322/images/windsor-circle-case-study-onward-reserve.pdf?submissionGuid=48f343b6-0956-41b9-9a8f-b1a400e9f5bf" target="_blank">conversions by 233%</a>.</p>
+<p>By leveraging the purchasing data at their disposal Onward Reserve were able to segment each subscriber into one of four customer types: best customers (at least 3 purchases), non-purchasers, churning customers and other. These distinct groups were sent different messages tailored to their previous on-site behaviour.</p>
+<p><img class="aligncenter size-full wp-image-1134" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-onward-reserve.png" alt="email segmentation case studies ROI at onward reserve" width="709" height="797" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-onward-reserve-610x686.png 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-onward-reserve-400x450.png 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-onward-reserve-300x337.png 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-onward-reserve.png 709w" sizes="(max-width: 709px) 100vw, 709px" /></p>
+<p style="text-align: center;"><em>Email onward reserve sends to &#8216;best customers&#8217;</em></p>
+<p style="text-align: left;">This basic behavioural (purchase frequency) segmentation resulted in:</p>
+<ul>
+<li>41% increase in open rates</li>
+<li>183% increase in click through rates</li>
+<li>278% increase in revenue</li>
+</ul>
+<h3> Multi-channel retail store increased open rates by 40%</h3>
+<p>SwayChic is the e-commerce store for a California-based women’s fashion retailer, Sway. The brand features six brick-and-mortar stores and it&#8217;s through these stores Sway&#8217;s associates organically collect customer email addresses.</p>
+<p>They created new campaigns which were segmented into different time slots as well as tailoring the emails based on their customers historic purchase behaviour. For example, one-time buyer, frequent buyers, and buyers who were no longer engaged.</p>
+<p><a href="http://www.marketingsherpa.com/article/case-study/lift-average-open-rate-segmentation" target="_blank">In creating this campaign</a>, they used historical data to test different attributes, such as days with the highest open rates, past purchases, and time of actual conversions.</p>
+<p><img class="aligncenter size-full wp-image-1135" src="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic.jpg" alt="email-segmentation-case-studies-ROI-Swaychic" width="800" height="683" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic-610x521.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic-176x150.jpg 176w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic-400x342.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic-300x256.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-segmentation-case-studies-ROI-Swaychic.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>Email targeted at customers that we no longer engaged</em></p>
+<p>SwayChic&#8217;s segmented campaign resulted in:</p>
+<ul>
+<li>40% increase in open rates</li>
+<li>100% increase in click through rates</li>
+<li>200% increase in revenue for each campaign</li>
+</ul>
+<h3>Takeaways</h3>
+<p>Segmenting email campaigns can help online business boost both relative and absolute sales without requiring a significant time investment. There are many other examples of targeted campaigns that are made possible through centralizing data and predictive analytics. Please let us know if you have come across some other killer email segmentation case studies.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/5-killer-email-segmentation-case-studies">5 killer email segmentation case studies</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/5-killer-email-segmentation-case-studies/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to segment your email list for higher conversion rates</title>
+		<link>http://birdleaf.io/how-to-segment-your-email-list-for-higher-conversion-rates</link>
+		<comments>http://birdleaf.io/how-to-segment-your-email-list-for-higher-conversion-rates#respond</comments>
+		<pubDate>Mon, 16 Nov 2015 19:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Scott Kennedy]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://birdleaf.io/?p=1119</guid>
+		<description><![CDATA[<p>In a previous post we went through the importance of having a email marketing segmentation strategy in place. Despite the common argument that email is dying, it is still one of the top performing channels for acquiring and retaining customers. Segmenting lists will help you more easily target your customers. It will allow you to [...]</p>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/how-to-segment-your-email-list-for-higher-conversion-rates">How to segment your email list for higher conversion rates</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In a previous post we went through the importance of having a email<a href="http://birdleaf.io/why-email-marketing-segmentation-matters" target="_blank"> marketing segmentation strategy </a>in place. Despite the common argument that email is dying, it is still one of the top performing channels for acquiring and retaining customers.</p>
+<p>Segmenting lists will help you more easily target your customers. It will allow you to send email content to your subscribers that is tailored to their wants and needs, which will drastically improve your open and click-through and conversion rates.</p>
+<p><img class="aligncenter size-full wp-image-1121" src="http://birdleaf.io/wp-content/uploads/2015/11/email-list-segmentation-results.jpg" alt="how to segment your email list results" width="600" height="421" srcset="http://birdleaf.io/wp-content/uploads/2015/11/email-list-segmentation-results-214x150.jpg 214w, http://birdleaf.io/wp-content/uploads/2015/11/email-list-segmentation-results-400x281.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/email-list-segmentation-results-300x211.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/email-list-segmentation-results.jpg 600w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>In this post we&#8217;ll go through how to segment your email list so you can start achieving higher conversion rates.</p>
+<h3><b>What You&#8217;ll Need</b></h3>
+<p>Segmenting your email list can seem like a daunting challenge but it honestly doesn&#8217;t take much to get it started. You&#8217;ll just need to commit some time to the planning process to make sure you can effectively implement your plans.</p>
+<p>To start segmenting your email list you&#8217;ll need some basic customer information. This can be anything, such as their gender or location. These basic data points are enough to get you started, so don&#8217;t worry if you limited data on your customers. As your segmentation strategy evolves and you identify the crucial data points you need and start collecting this information.</p>
+<p>You shouldn&#8217;t need any additional tools to get started if you&#8217;re already using an email marketing tool. Most email marketing tools, like <a href="http://mailchimp.com" target="_blank">Mailchimp</a> or <a href="http://www.aweber.com" target="_blank">AWeber</a>, make it really simple to organise your segments automatically.</p>
+<h3><strong>Different Data Types For Segmentation</strong></h3>
+<p>There are many for you to segment your customer list to provide more relevant content to your subscribers. In reality, any data that you can tie back to a subscriber could be a segment. Each business is going to want to segment their subscribers using different data points. For example, an e-commerce company may choose to Gender and Age to segment their subscribers. While on the other hand a B2B software company may choose to segment based on Industry and Job Role. Here are some samples of the types of segmentation you can implement: Demographic, Behavioural, and Purchase Cycle.</p>
+<h5 id="blogsubhead"><strong>Demographical Data</strong></h5>
+<p>Demographic data is any personal characteristics of a person, such as age,  gender, job etc. One of the main advantages of demographic segmentation is that the information you need is readily available for you, and you can group subscribers together without getting specific. That being said, demographical segmentation can be highly effective.</p>
+<p><img class="aligncenter size-full wp-image-1123" src="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe.jpg" alt="how to segment your email marketing list demographic data example" width="800" height="393" srcset="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-610x300.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-305x150.jpg 305w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-400x197.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe-300x147.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-demographic-data-exampe.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><i>Emails sent by Johnny Cupcakes segmented by gender.</i></p>
+<p>Clothing brand Johnny Cupcakes launched a segmented email marketing campaign for the product launch of its new baseball T-shirts. By simply segmenting their email list into male and female subscribers they saw a <a href="http://www.marketingsherpa.com/article/case-study/social-behavioral-email-segmentation">141% increase in revenue per campaign</a>. This massive increase in revenue resulted from a 42% increase in clickthrough rate and 123% more conversions.</p>
+<p>Depending on your target market you can try using these demographic groups to segment your list:</p>
+<ul>
+<li><strong>Gender</strong> &#8211; like the example above. This works really well for e-commerce fashion companies. If you are selling to both men and women then generic email marketing will be a total flop.</li>
+</ul>
+<ul>
+<li><strong>Location </strong>&#8211; if you want to offer free shipping across the U.S, you can&#8217;t be marketing the coupon code to this customers living in Canada. Knowing where your customers live and marketing to their location is essential to building a positive email reputation.</li>
+</ul>
+<ul>
+<li><strong>Job Role </strong>&#8211; this is definitely more applicable for B2B businesses. Segmenting subscribers based on job role can be really effective. For instance, the sales pitch you would send a Sales Rep would be different then that you would send the VP of Sales.</li>
+</ul>
+<ul>
+<li><strong>Industry  </strong>&#8211;  different industries should be approached and marketed differently. For example, if you have three different customerKnowing your customer&#8217;s industry may allow you to add a level of personalization or authority to your content. This is more impactful for B2B businesses.</li>
+</ul>
+<h5 id="blogsubhead"><strong>Behavioural Data</strong></h5>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>Behavioural data includes any defined interactions with your product or service: purchase history, buying frequency, in-app behaviours, usage rate and so on.</p>
+<p><img class="aligncenter size-full wp-image-1124" src="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe.jpg" alt="how to segment your email list behavioural data example" width="900" height="695" srcset="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe-610x471.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe-194x150.jpg 194w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe-400x309.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe-300x232.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-behavioural-data-exampe.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p style="text-align: center;"><em>Email sent to best customers identified by purchasing data.</em></p>
+<p>Online mens reatiler <a href="http://onwardreserve.com" target="_blank">Onward Reserve</a> segmented customers based on purchase data that increased their conversions by 233% and revenue by 278%. By leveraging the purchasing data at their disposal Onward Reserve were able to segment each subscriber into one of four customer types: best customers (at least 3 purchases), non-purchasers, churning customers and other. These distinct groups were sent different messages tailored to their previous on-site behaviour.</p>
+<p>Try using these behaviuoral segments to target people based on their interactions with your product or service:</p>
+<ul>
+<li><strong>What they purchase</strong> &#8211; Amazon does an amazing job of this with their &#8220;You bought this, so you might like this” upsell. By knowing someones past purchases you can use that information to send them emails catered to that which interests them. This will lead to more purchases and a longer lifetime value.</li>
+</ul>
+<ul>
+<li><strong>Purchase frequency </strong>&#8211; some people may purchase every week whereas some subscribers may be repeat customers but only purchase once a year. By looking at each customer’s buying behaviour JAM Paper&#8217;s team calculated the average time between orders for each customer and began sending the “lapsed purchase” email once each person passed their individual threshold. This tactic yielded a <a href="http://sherpablog.marketingsherpa.com/email-marketing/list-segmentation-tips/" target="_blank">45% conversion rate</a>.</li>
+</ul>
+<ul>
+<li><strong>What they do in your product</strong> &#8211; this allows you to send tailored messages to your subscribers based on their interaction with your website or application. Triggered messages are a great way to engage with your customers without effort. For example, a lot of e-commerce companies will target subscribers who added a product to the shopping cart but didn&#8217;t complete the purchase. If they haven&#8217;t completed the purchase within 24 hours, an email is triggered targeted toward that specific target group.</li>
+</ul>
+<ul>
+<li><strong>Free vs paid users</strong> &#8211; for both segments of users you have very different objectives. Your goal with non-paying users is to convert as many as possible. Whereas your goal with paid users is to retain as many as possible.With that in mind you&#8217;ll probably send a lot of upgrade pitches to your free users, and for your paid users you will send them tailored messages to keep them engaged in the product.</li>
+</ul>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h5 id="blogsubhead"><strong>Position In Sales Cycle</strong></h5>
+<p>Each one of your subscribers is inevitably going to be at a different point in your sales cycle. By segmenting in this way you can formulate and tailor your marketing communication to increase the likelihood that each prospect will engage with your emails and move from one stage of the sales cycle to the next.</p>
+<p><img class="aligncenter size-full wp-image-1126" src="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe.jpg" alt="how to segment your email marketing list sales cycle example" width="800" height="351" srcset="http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe-610x268.jpg 610w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe-342x150.jpg 342w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe-400x176.jpg 400w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe-300x132.jpg 300w, http://birdleaf.io/wp-content/uploads/2015/11/how-to-segment-your-email-list-sales-cycle-exampe.jpg 800w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p style="text-align: center;"><em>Segmenting customer based on position in sales cycle.</em></p>
+<p>News agency PR Newswire <a href="http://www.marketingsherpa.com/article/case-study/shortened-sales-cycle" target="_blank">shortened its sales cycle by 30% </a>by aligning their email content to each stage of the buyers journey. As you watch a lead move through the sales funnel you will be able to pinpoint the right time for your sales team to get in touch directly. This will allow you to minimize the likelyhood of a Sales Rep wasting time on unqualified leads.</p>
+<ul>
+<li><strong>Top of the funnel </strong>&#8211; for prospects at the top of the sales funnel content should be educational and product-neutral. Think about white papers and content that&#8217;s focused on industry relevant topics, not your product. Prospects at this stage might not even be aware that they have a fixable problem, so identifying this problem should be your focus for this stage.</li>
+</ul>
+<ul>
+<li><strong>Middle of the funnel </strong>&#8211; as prospects move into the middle of the funnel your content should get a bit more specific. The aim of the game at this stage is to get your prospects thinking about the advantages of having your product. So you can send out case studies about how a similar business has the same problem and this is how they fixed it using our product.</li>
+</ul>
+<ul>
+<li><strong>Bottom of the funnel </strong>&#8211; once a prospect reaches the bottom of the funnel you need to start actively selling them your product. At this stage they&#8217;re going to be well educated on the problem area and are potentially looking for a solution.  Getting a sales rep to contact the prospect and go through a buyers guide and implementation strategy is really important.</li>
+</ul>
+<h3><strong>Takeaways</strong></h3>
+<p>Each one of your subscribers, prospect, customers are different in some way. For this reason it&#8217;s really important to segment your email marketing list in an attempt to tailor your messages so they are relevant to the recipient.</p>
+<p>How you segment your list will depend on your target audience and what level of data you have on each subscriber. To start maximising the impact of your email marketing you can segment your list using demographic, behavioural, or sales cycle data.</p>
+<div style="margin-top: 25px;" align="center"><a href="http://birdleaf.io/free-customer-persona-guide"><img style="max-width: 100%;" src="http://birdleaf.io/wp-content/uploads/2015/06/customer_persona_banner.jpg" alt="" align="center" /></a></div>
+<p>The post <a rel="nofollow" href="http://birdleaf.io/how-to-segment-your-email-list-for-higher-conversion-rates">How to segment your email list for higher conversion rates</a> appeared first on <a rel="nofollow" href="http://birdleaf.io">Birdleaf</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://birdleaf.io/how-to-segment-your-email-list-for-higher-conversion-rates/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

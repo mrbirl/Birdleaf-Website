@@ -1,0 +1,25 @@
+/*
+| ------------------------------------------------------------------------------
+| $Font families
+| ------------------------------------------------------------------------------
+*/
+/*
+| ------------------------------------------------------------------------------
+| $Commons
+| ------------------------------------------------------------------------------
+*/
+.thb-theme .mejs-container .mejs-overlay .mejs-overlay-button:before { font-family: "blaine"; font-weight: normal; text-transform: none; text-indent: 0; display: block; speak: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* THB player */
+.thb-theme .mejs-container { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; background: none; width: 100% !important; }
+.thb-theme .mejs-container .mejs-controls { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; background: none; height: 34px !important; width: 100%; border-radius: 3px; background: #3f3f3f; border-radius: 0; padding: 2px 4px 0; }
+.thb-theme .mejs-container .mejs-controls .mejs-currenttime-container, .thb-theme .mejs-container .mejs-controls .mejs-duration-container { padding-top: 9px; }
+.thb-theme .mejs-container .mejs-controls .mejs-time-rail .mejs-time-total { border-radius: 10px; }
+.thb-theme .mejs-container .mejs-controls .mejs-time-rail .mejs-time-total .mejs-time-loaded, .thb-theme .mejs-container .mejs-controls .mejs-time-rail .mejs-time-total .mejs-time-current { border-radius: 10px; }
+.thb-theme .mejs-container .mejs-controls .mejs-time-rail .mejs-time-total .mejs-time-loaded { background-color: #666; }
+.thb-theme .mejs-container .mejs-controls .mejs-time-rail .mejs-time-total .mejs-time-current { background-color: #FFF; }
+.thb-theme .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total { border-radius: 10px; }
+.thb-theme .mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current { border-radius: 10px; background-color: #FFF; }
+.thb-theme .mejs-container .mejs-overlay { bottom: 0; right: 0; height: 100% !important; }
+.thb-theme .mejs-container .mejs-overlay .mejs-overlay-button { margin-top: -32px !important; margin-left: -32px !important; width: 64px; height: 64px; border-radius: 4px; background-image: none; background-color: rgba(0, 0, 0, 0.75); }
+.thb-theme .mejs-container .mejs-overlay .mejs-overlay-button:before { width: 64px; height: 64px; content: "V"; font-size: 32px; color: #fff; line-height: 64px; text-align: center; }
